@@ -1,0 +1,10 @@
+{
+  "name": "phish-detective",
+  "version": "1.0.0",
+  "description": "Browser extension to check for phishing sites",
+  "devDependencies": {
+  },
+  "dependencies": {
+   
+  }
+}
